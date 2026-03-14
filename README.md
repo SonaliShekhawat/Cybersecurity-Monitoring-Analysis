@@ -30,3 +30,5 @@ All analysis and visualization were built in Power BI Desktop. The core analysis
 - **Event categorization** – breakdown by event type, severity, or category
 - **Filtering and drill-through** – interactive filtering by time range, event type, and other dimensions
 
+---
+
