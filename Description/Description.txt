@@ -1,0 +1,23 @@
+Cybersecurity Monitoring Analysis Summary :
+This report summarizes the key metrics and trends from the provided cybersecurity monitoring dashboard.
+The organization has faced a significant volume of cyber threats, totaling 40,000 attacks. While a large portion has been mitigated, the high volume of High Severity events and a nearly 1:1 ratio between total attacks and unique source IP addresses suggest a broad and persistent threat landscape.
+Key Performance Indicators (KPIs)
+Total Attacks: 40,000
+Blocked Attacks: 14,000 (35% mitigation rate)
+High Severity Attacks: 13,000 (32.5% of total attacks)
+Unique Source IPs: 40,000
+Detailed Analysis
+1. Attack Trends Over Time
+The organization has seen a steady upward trend in attack frequency over the monitored period.
+Starting Point: ~2,675 attacks in December.
+Ending Point: 3,678 attacks in March.
+Growth: The volume has increased by approximately 37% from the initial recorded month to the peak in March.
+2. Attack Vectors and Methods
+Protocol Distribution: Attacks are almost perfectly split across three protocols: TCP (33.57%), UDP (33.25%), and ICMP (33.18%). This suggests a multi-vector approach by attackers.
+Attack Types: The workload is evenly distributed across three main types, each accounting for roughly 13,000 instances:
+DDoS
+Malware
+Intrusion
+Log Sources: Alerts are generated equally from Firewall and Server sources, with each contributing 20,000 alerts/warnings.
+3. Network Vulnerability
+The attacks are distributed uniformly across Network Segments (A, B, and C), with no single segment being significantly more targeted than others. Severity levels are also consistently distributed across these segments, each maintaining roughly a 33% share of High, Medium, and Low severity events.
